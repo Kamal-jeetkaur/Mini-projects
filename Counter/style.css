@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: Asap, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+}
+
+.container p{
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-size: 80px;
+}
+
+
+#value {
+    margin-top: 50px;
+    font-size: 75px;
+    font-weight:400;
+}
+
+.buttons{
+    text-align: center;
+    margin: 20px;
+    padding: 4px 9px;
+}
+
+.btn-decrease{
+    font-weight: bold;
+    padding: 4px 10px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    margin: 0px 5px;
+    font-size: 20px;
+
+}
+.btn-decrease:hover{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.btn-reset{
+    font-weight: bold;
+    padding: 4px 10px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    margin: 0px 5px;
+    font-size: 20px;
+
+
+}
+.btn-reset:hover{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.btn-increase{
+    font-weight: bold;
+    padding: 4px 10px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    margin: 0px 5px;
+    font-size: 20px;
+
+}
+.btn-increase:hover{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
