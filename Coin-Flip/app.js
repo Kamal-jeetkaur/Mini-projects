@@ -3,8 +3,8 @@ const coin_img= coin_div.querySelector("img");
 const result_div = document.getElementById("result");
 const flip_button=document.getElementById('flip');
 
-const heads_image = 'https://media.geeksforgeeks.org/wp-content/uploads/20231016151817/heads.png';
-const tails_image = 'https://media.geeksforgeeks.org/wp-content/uploads/20231016151806/tails.png';
+const heads_image = '../images/heads.png';
+const tails_image = '../images/tails.png';
 
 function choice(){
     const choices=['head', 'tail'];
