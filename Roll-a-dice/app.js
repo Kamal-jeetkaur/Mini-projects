@@ -14,7 +14,7 @@ const dice_2 = '../images/dice_2.png'
 const dice_3 = '../images/dice_3.png'
 const dice_4 = '../images/dice_4.png'
 const dice_5 = '../images/dice_5.png'
-const dice_6 = '../images/dice_5.png'
+const dice_6 = '../images/dice_6.png'
 
 
 
